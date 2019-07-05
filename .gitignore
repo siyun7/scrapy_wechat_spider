@@ -1,0 +1,12 @@
+/.idea
+info/__pycache__/
+
+*.jpg
+
+*.pyc
+
+*.png
+
+*.jpeg
+
+*.gif
